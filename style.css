@@ -28,3 +28,28 @@ color: rgba(37, 5, 5, 0.885)
 .body{
     margin-right;
 }
+.red{
+    color:red
+}
+.blue{
+color:blue
+}
+.orange{
+color:orange
+}
+.yellow{
+color:yellow
+}
+.green{
+color:green
+}
+.skyblue{
+color:skyblue
+}
+.purple{
+color:purple
+}
+.kuangkuangblue{
+    background-color: rgb(147, 108, 214);
+    
+}
